@@ -1,0 +1,15 @@
+C:\Users\86138\Desktop\梁若为_3\梁若为_3\bin\Debug\梁若为_3.exe.config
+C:\Users\86138\Desktop\梁若为_3\梁若为_3\bin\Debug\梁若为_3.exe
+C:\Users\86138\Desktop\梁若为_3\梁若为_3\bin\Debug\梁若为_3.pdb
+C:\Users\86138\Desktop\梁若为_3\梁若为_3\obj\Debug\梁若为_3.csprojAssemblyReference.cache
+C:\Users\86138\Desktop\梁若为_3\梁若为_3\obj\Debug\MainWindow.g.cs
+C:\Users\86138\Desktop\梁若为_3\梁若为_3\obj\Debug\App.g.cs
+C:\Users\86138\Desktop\梁若为_3\梁若为_3\obj\Debug\梁若为_3_MarkupCompile.cache
+C:\Users\86138\Desktop\梁若为_3\梁若为_3\obj\Debug\梁若为_3_MarkupCompile.lref
+C:\Users\86138\Desktop\梁若为_3\梁若为_3\obj\Debug\MainWindow.baml
+C:\Users\86138\Desktop\梁若为_3\梁若为_3\obj\Debug\梁若为_3.g.resources
+C:\Users\86138\Desktop\梁若为_3\梁若为_3\obj\Debug\梁若为_3.Properties.Resources.resources
+C:\Users\86138\Desktop\梁若为_3\梁若为_3\obj\Debug\梁若为_3.csproj.GenerateResource.cache
+C:\Users\86138\Desktop\梁若为_3\梁若为_3\obj\Debug\梁若为_3.csproj.CoreCompileInputs.cache
+C:\Users\86138\Desktop\梁若为_3\梁若为_3\obj\Debug\梁若为_3.exe
+C:\Users\86138\Desktop\梁若为_3\梁若为_3\obj\Debug\梁若为_3.pdb
